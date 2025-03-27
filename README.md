@@ -3,7 +3,7 @@
 ## 1. Create the ASP.NET Core API
 Use the Visual Studio ASP.NET Core Web API Template
 
-![screenshot-1]([screenshots/1.png](https://github.com/damiankryzia71/react-asp.netcore/blob/895aba6c131f9a062069ffd59df2501795b13052/screenshots/1.png))
+![screenshot-1](https://github.com/damiankryzia71/react-asp.netcore/blob/895aba6c131f9a062069ffd59df2501795b13052/screenshots/1.png)
 
 Use the default settings
 
