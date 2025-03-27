@@ -10,3 +10,6 @@ Use the default settings
 ![screenshot-2](https://github.com/damiankryzia71/react-asp.netcore/blob/21ab15fc54677a80beda1906c4316040b9ab2b02/screenshots/2.png)
 
 Delete the template created files: `WeatherForecast.cs`, the `.http` file, and `Controllers/WeatherForecastController.cs`
+
+## 2. Dev Configuration for ASP.NET Web API
+Use this code for `Program.cs` in dev
