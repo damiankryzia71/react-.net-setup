@@ -102,6 +102,7 @@ Then, include the `Index` view in your `HomeController.cs`
     }
 ```
 Finally, create the `Index.cshtml` view file insie `Views/Home/` and set up the content like this.
+Make sure that the `script` tag points to the appropriate `.js` file in `dist`.
 ```html
 <!DOCTYPE html>
 <html>
@@ -111,7 +112,7 @@ Finally, create the `Index.cshtml` view file insie `Views/Home/` and set up the 
     </head>
     <body>
         <div id="root"></div>
-        <script src="~/dist/main.js"></script>
+        <script src="~/dist/assets/index.js"></script>
     </body>
 </html>
 ```
